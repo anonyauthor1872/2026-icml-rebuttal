@@ -1,19 +1,17 @@
 # 2026-icml-rebuttal
 
-
 ## Figures
 
-### Figure 4
-![Figure 4](./figure4_clipping.png)
+<p align="center">
+  <img src="./figure4_clipping.png" width="45%" />
+  <img src="./figure5_mean8_best8.png" width="45%" />
+</p>
 
-### Figure 5
-![Figure 5](./figure5_mean8_best8.png)
+<p align="center">
+  <img src="./figure6_ema_laplace.png" width="45%" />
+  <img src="./figure7_alpah_beta.png" width="45%" />
+</p>
 
-### Figure 6
-![Figure 6](./figure6_ema_laplace.png)
-
-### Figure 7
-![Figure 7](./figure7_alpah_beta.png)
-
-### Figure 8
-![Figure 8](./figure8_hierarchy.png)
+<p align="center">
+  <img src="./figure8_hierarchy.png" width="60%" />
+</p>
