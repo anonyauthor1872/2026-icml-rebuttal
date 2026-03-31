@@ -1,4 +1,4 @@
-# 2026-icml-rebuttal
+# 2026 ICML Rebuttal
 
 ## Discounted Beta--Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards
 
