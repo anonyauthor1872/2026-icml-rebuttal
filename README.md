@@ -2,6 +2,12 @@
 
 ## Discounted Beta--Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards
 
+### Table 6
+![Table 6](./table6_main_table.png)
+
+### Table 7
+![Table 6](./table7_0_6B_lambda.png)
+
 ### Figure 4
 ![Figure 4](./figure4_clipping.png)
 
@@ -17,5 +23,4 @@
 ### Figure 8
 ![Figure 8](./figure8_hierarchy.png)
 
-### Table 6
-![Table 6](./table6_0_6B_lambda.png)
+
