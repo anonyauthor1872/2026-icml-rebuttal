@@ -16,3 +16,6 @@
 
 ### Figure 8
 ![Figure 8](./figure8_hierarchy.png)
+
+### Table 6
+![Table 6](./table6_0_6B_lambda.png)
